@@ -1,2 +1,2 @@
 date,total_time_available(h),break_time_b_w_session(mins),total_work_time(h),total_sessions,morning_slots(12am - 11:59 am),afternoon_slots(12pm - 6pm),evening_slots(6pm-11:59pm),tiffin_break(mins),lunch_break(mins),snacks_break(mins),dinner_break(mins),entertainment_time(h),time_per_slot(mins)
-2023-06-05,16,10,12.0,6,5:00 am - 12:00 pm,12:00 pm - 6:00 pm,6:00 pm - 9:00 pm,30,30,30,30,60,120.0
+2023-06-05,16,20,10.666666666666666,4,5:00 am - 12:00 pm,12:00 pm - 6:00 pm,6:00 pm - 9:00 pm,30,30,30,30,60,175.0

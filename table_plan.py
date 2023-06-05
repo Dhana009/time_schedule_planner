@@ -37,7 +37,7 @@ class Table:
             self.table.loc[0, self.table.columns[5]] = self.slots[self.slot_select][0]
             self.table.loc[0, self.table.columns[6]] = self.slots[self.slot_select][1]
             self.table.loc[0, self.table.columns[7]] = self.slots[self.slot_select][2]
-            self.table.loc[0, self.table.columns[3]] = 13 - (self.single_break_time*self.total_sessions)/60
+            self.table.loc[0, self.table.columns[3]] = 12 - (self.single_break_time*self.total_sessions)/60
             self.table.loc[0, self.table.columns[8]] = 30
             self.table.loc[0, self.table.columns[9]] = 30
             self.table.loc[0, self.table.columns[10]] = 30
